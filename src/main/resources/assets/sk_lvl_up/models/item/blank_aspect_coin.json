@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sk_lvl_up:item/blank_aspect_coin"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "sk_lvl_up:item/master_smiths_hammer"
+  }
+}

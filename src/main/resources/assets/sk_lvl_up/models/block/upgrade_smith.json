@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "sk_lvl_up:block/upgrade_smithing_table_bottom",
+    "east": "sk_lvl_up:block/upgrade_smithing_table_side",
+    "north": "sk_lvl_up:block/upgrade_smithing_table_front",
+    "particle": "sk_lvl_up:block/upgrade_smithing_table_front",
+    "south": "sk_lvl_up:block/upgrade_smithing_table_front",
+    "up": "sk_lvl_up:block/upgrade_smithing_table_top",
+    "west": "sk_lvl_up:block/upgrade_smithing_table_side"
+  }
+}

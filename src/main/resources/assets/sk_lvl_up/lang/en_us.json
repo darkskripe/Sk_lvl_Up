@@ -1,0 +1,35 @@
+{
+  "item.sk_lvl_up.novice_sword_soul": "Novice sword soul",
+  "item.sk_lvl_up.adept_sword_soul": "Adept sword soul",
+  "item.sk_lvl_up.master_sword_soul": "Master sword soul",
+  "item.sk_lvl_up.eminent_sword_soul": "Eminent sword soul",
+  "item.sk_lvl_up.blank_aspect_coin": "Blank aspect coin",
+  "item.sk_lvl_up.novice_smiths_hammer": "Novice smith's hammer",
+  "item.sk_lvl_up.adept_smiths_hammer": "Adept smith's hammer",
+  "item.sk_lvl_up.master_smiths_hammer": "Master smith's hammer",
+  "item.sk_lvl_up.eminent_smiths_hammer": "Eminent smith's hammer",
+
+  "entity.minecraft.villager.sk_lvl_up.skriperya_upgrader_smith":"Skriperyan upgrade smith",
+
+  "item.sk_lvl_up.upgrade_smith": "Upgrade smith",
+  "container.sk_lvl_up.example_sided_inventory_block": "Upgrade Smith",
+  "itemGroup.sk_lvl_up_objects_creative_tab": "Skriperya lvl up objects",
+
+
+  "commands.sk_lvl_up.set_smith_lvl": "Set %s smith level to %d",
+  "commands.sk_lvl_up.failure_set_smith_lvl": "Failed to set smith level",
+  "commands.sk_lvl_up.set_sword_class": "Set %s item to class %d",
+  "commands.sk_lvl_up.failure_set_sword_class": "Item from %s main hand can't be classed",
+  "commands.sk_lvl_up.set_sword_level": "Set %s item to level %d",
+  "commands.sk_lvl_up.failure1_set_sword_level": "Item from %s main hand can't be leveled,level is too high for its class",
+  "commands.sk_lvl_up.failure2_set_sword_level": "Item from %s main hand can't be leveled",
+  "commands.sk_lvl_up.add_sword_exp": "Item from %s main hand got %d exp",
+  "commands.sk_lvl_up.add_sword_exp_failure": "Item from %s main hand can't get exp",
+
+  "components.sk_lvl_up.tooltip.free_space": " ",
+  "components.sk_lvl_up.tooltip.sword_class": " Class: %s",
+  "components.sk_lvl_up.tooltip.press_shift": " Press §eShift§r for more information!",
+  "components.sk_lvl_up.tooltip.sword_lvl":" Level: %d",
+  "components.sk_lvl_up.tooltip.sword_lvl_max_level":" Level:%d §cMAX LEVEL§r",
+  "components.sk_lvl_up.tooltip.sword_current_exp":" Exp: %f/%d"
+}
